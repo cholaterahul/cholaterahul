@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cholaterahul
 - 👀 I’m interested in the Field of Data Analytics
-- 🌱 I’m a Google Certified Data Analyst
-- 💞️ I’m looking to collaborate on Data Analytics Projects
+- 🌱 A Google Certified Data Analyst
+- 💞️ Looking to collaborate on Data Analytics Projects
 - 📫 You may reach me on rahul1136rahul@outlook.com
 
 <!---
